@@ -1,5 +1,4 @@
 let
-    // URL del CSV en GitHub (rama main)
     CsvUrl = "https://raw.githubusercontent.com/Ricardo-Ugarte/Powerbi-country-flags/main/data/countries_flags.csv",
 
     Source = Csv.Document(
