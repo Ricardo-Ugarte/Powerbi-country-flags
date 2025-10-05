@@ -12,10 +12,9 @@ Glosario de **países por continente** con **ISO2** y **URL de bandera** listo p
 - [`scripts/.sql`](https://github.com/Ricardo-Ugarte/Powerbi-country-flags/blob/main/scripts/.sql) → Tabla de referencia + JOIN de ejemplo.
 
 ## 🚀 Uso en Power BI
-1. **Get Data → Web** (o Text/CSV) y apunta al link *raw* del CSV.  
-2. En **Column tools**, marca `Flag_URL` como **Image URL**.  
-3. Relación recomendada: por **ISO2** (evita diferencias de nombres/idiomas).  
-4. Para Map/Filled Map, categoriza `Country` como **Country/Region**.
+1. **Get Data → Web** → pega la URL raw del CSV.  
+2. Flag_URL → Data Category = Image URL  
+3. Country → Data Category = Country/Region
 
 ## 🧰 Uso en Power Query
 Importa [`scripts/PowerQueryScript.m`](https://github.com/Ricardo-Ugarte/Powerbi-country-flags/blob/main/scripts/PowerQueryScript.m)  
