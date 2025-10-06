@@ -9,7 +9,7 @@ Glosario de **países por continente** con **ISO2** y **URL de bandera** listo p
 
 - [`scripts/PowerQueryScript.m`](https://github.com/Ricardo-Ugarte/Powerbi-country-flags/blob/main/scripts/PowerQueryScript.m) → Conexión directa al CSV “raw” en GitHub.
 
-- [`scripts/.sql`](https://github.com/Ricardo-Ugarte/Powerbi-country-flags/blob/main/scripts/.sql) → Tabla de referencia + JOIN de ejemplo.
+- [`CountryFlags.sql`](https://github.com/Ricardo-Ugarte/Powerbi-country-flags/blob/main/scripts/CountryFlags.sql) → Tabla de referencia + JOIN de ejemplo.
 
 ## 🚀 Uso en Power BI
 1. **Get Data → Web** → pega la URL raw del CSV.  
@@ -21,5 +21,5 @@ Importa [`scripts/PowerQueryScript.m`](https://github.com/Ricardo-Ugarte/Powerbi
 `Flag_URL` ya queda listo para usarse en tablas/matrices/slicers con imágenes.
 
 ## 🗄️ Uso en SQL
-Crea la tabla `CountryFlags` y cárgala desde el CSV. Haz JOIN por `ISO2` con tu tabla de hechos.  
-Scripts: [`scripts/.sql`](https://github.com/Ricardo-Ugarte/Powerbi-country-flags/blob/main/scripts/.sql)
+Crea la tabla `CountryFlags`  y haz JOIN por CountryRegionCode.  
+Scripts: [`CountryFlags.sql`](https://github.com/Ricardo-Ugarte/Powerbi-country-flags/blob/main/scripts/CountryFlags.sql)
