@@ -1,7 +1,7 @@
 Country,Continent,ISO2,Flag_URL
 Argelia,África,DZ,https://flagcdn.com/w320/dz.png
 Angola,África,AO,https://flagcdn.com/w320/ao.png
-Benín,África,BJ,https://flagcdn.com/w320/bj.png
+Benin,África,BJ,https://flagcdn.com/w320/bj.png
 Botsuana,África,BW,https://flagcdn.com/w320/bw.png
 Burkina Faso,África,BF,https://flagcdn.com/w320/bf.png
 Burundi,África,BI,https://flagcdn.com/w320/bi.png
@@ -13,8 +13,8 @@ Costa de Marfil,África,CI,https://flagcdn.com/w320/ci.png
 Egipto,África,EG,https://flagcdn.com/w320/eg.png
 Eritrea,África,ER,https://flagcdn.com/w320/er.png
 Esuatini,África,SZ,https://flagcdn.com/w320/sz.png
-Etiopía,África,ET,https://flagcdn.com/w320/et.png
-Gabón,África,GA,https://flagcdn.com/w320/ga.png
+Etiopia,África,ET,https://flagcdn.com/w320/et.png
+Gabon,África,GA,https://flagcdn.com/w320/ga.png
 Gambia,África,GM,https://flagcdn.com/w320/gm.png
 Ghana,África,GH,https://flagcdn.com/w320/gh.png
 Guinea,África,GN,https://flagcdn.com/w320/gn.png
@@ -26,29 +26,29 @@ Liberia,África,LR,https://flagcdn.com/w320/lr.png
 Libia,África,LY,https://flagcdn.com/w320/ly.png
 Madagascar,África,MG,https://flagcdn.com/w320/mg.png
 Malaui,África,MW,https://flagcdn.com/w320/mw.png
-Malí,África,ML,https://flagcdn.com/w320/ml.png
+Mali,África,ML,https://flagcdn.com/w320/ml.png
 Marruecos,África,MA,https://flagcdn.com/w320/ma.png
 Mauritania,África,MR,https://flagcdn.com/w320/mr.png
 Mauricio,África,MU,https://flagcdn.com/w320/mu.png
 Mozambique,África,MZ,https://flagcdn.com/w320/mz.png
 Namibia,África,NA,https://flagcdn.com/w320/na.png
-Níger,África,NE,https://flagcdn.com/w320/ne.png
+Niger,África,NE,https://flagcdn.com/w320/ne.png
 Nigeria,África,NG,https://flagcdn.com/w320/ng.png
-República Centroafricana,África,CF,https://flagcdn.com/w320/cf.png
-República del Congo,África,CG,https://flagcdn.com/w320/cg.png
-República Democrática del Congo,África,CD,https://flagcdn.com/w320/cd.png
+Republica Centroafricana,África,CF,https://flagcdn.com/w320/cf.png
+Republica del Congo,África,CG,https://flagcdn.com/w320/cg.png
+Republica Democrática del Congo,África,CD,https://flagcdn.com/w320/cd.png
 Ruanda,África,RW,https://flagcdn.com/w320/rw.png
 Santo Tomé y Príncipe,África,ST,https://flagcdn.com/w320/st.png
 Senegal,África,SN,https://flagcdn.com/w320/sn.png
 Seychelles,África,SC,https://flagcdn.com/w320/sc.png
 Sierra Leona,África,SL,https://flagcdn.com/w320/sl.png
 Somalia,África,SO,https://flagcdn.com/w320/so.png
-Sudáfrica,África,ZA,https://flagcdn.com/w320/za.png
-Sudán,África,SD,https://flagcdn.com/w320/sd.png
-Sudán del Sur,África,SS,https://flagcdn.com/w320/ss.png
+Sudafrica,África,ZA,https://flagcdn.com/w320/za.png
+Sudan,África,SD,https://flagcdn.com/w320/sd.png
+Sudan del Sur,África,SS,https://flagcdn.com/w320/ss.png
 Tanzania,África,TZ,https://flagcdn.com/w320/tz.png
 Togo,África,TG,https://flagcdn.com/w320/tg.png
-Túnez,África,TN,https://flagcdn.com/w320/tn.png
+Tunez,África,TN,https://flagcdn.com/w320/tn.png
 Uganda,África,UG,https://flagcdn.com/w320/ug.png
 Yibuti,África,DJ,https://flagcdn.com/w320/dj.png
 Zambia,África,ZM,https://flagcdn.com/w320/zm.png
@@ -57,30 +57,30 @@ Afganistán,Asia,AF,https://flagcdn.com/w320/af.png
 Arabia Saudita,Asia,SA,https://flagcdn.com/w320/sa.png
 Armenia,Asia,AM,https://flagcdn.com/w320/am.png
 Azerbaiyán,Asia,AZ,https://flagcdn.com/w320/az.png
-Baréin,Asia,BH,https://flagcdn.com/w320/bh.png
+Barein,Asia,BH,https://flagcdn.com/w320/bh.png
 Bangladés,Asia,BD,https://flagcdn.com/w320/bd.png
 Bután,Asia,BT,https://flagcdn.com/w320/bt.png
-Brunéi,Asia,BN,https://flagcdn.com/w320/bn.png
+Brunei,Asia,BN,https://flagcdn.com/w320/bn.png
 Camboya,Asia,KH,https://flagcdn.com/w320/kh.png
 Catar,Asia,QA,https://flagcdn.com/w320/qa.png
 China,Asia,CN,https://flagcdn.com/w320/cn.png
 Corea del Norte,Asia,KP,https://flagcdn.com/w320/kp.png
 Corea del Sur,Asia,KR,https://flagcdn.com/w320/kr.png
-Emiratos Árabes Unidos,Asia,AE,https://flagcdn.com/w320/ae.png
+Emiratos Arabes Unidos,Asia,AE,https://flagcdn.com/w320/ae.png
 Filipinas,Asia,PH,https://flagcdn.com/w320/ph.png
 Georgia,Asia,GE,https://flagcdn.com/w320/ge.png
 India,Asia,IN,https://flagcdn.com/w320/in.png
 Indonesia,Asia,ID,https://flagcdn.com/w320/id.png
 Irak,Asia,IQ,https://flagcdn.com/w320/iq.png
-Irán,Asia,IR,https://flagcdn.com/w320/ir.png
+Iran,Asia,IR,https://flagcdn.com/w320/ir.png
 Israel,Asia,IL,https://flagcdn.com/w320/il.png
-Japón,Asia,JP,https://flagcdn.com/w320/jp.png
+Japon,Asia,JP,https://flagcdn.com/w320/jp.png
 Jordania,Asia,JO,https://flagcdn.com/w320/jo.png
 Kazajistán,Asia,KZ,https://flagcdn.com/w320/kz.png
-Kirguistán,Asia,KG,https://flagcdn.com/w320/kg.png
+Kirguistan,Asia,KG,https://flagcdn.com/w320/kg.png
 Kuwait,Asia,KW,https://flagcdn.com/w320/kw.png
 Laos,Asia,LA,https://flagcdn.com/w320/la.png
-Líbano,Asia,LB,https://flagcdn.com/w320/lb.png
+Libano,Asia,LB,https://flagcdn.com/w320/lb.png
 Malasia,Asia,MY,https://flagcdn.com/w320/my.png
 Maldivas,Asia,MV,https://flagcdn.com/w320/mv.png
 Mongolia,Asia,MN,https://flagcdn.com/w320/mn.png
@@ -119,7 +119,7 @@ Estonia,Europa,EE,https://flagcdn.com/w320/ee.png
 Finlandia,Europa,FI,https://flagcdn.com/w320/fi.png
 Francia,Europa,FR,https://flagcdn.com/w320/fr.png
 Grecia,Europa,GR,https://flagcdn.com/w320/gr.png
-Hungría,Europa,HU,https://flagcdn.com/w320/hu.png
+Hungria,Europa,HU,https://flagcdn.com/w320/hu.png
 Irlanda,Europa,IE,https://flagcdn.com/w320/ie.png
 Islandia,Europa,IS,https://flagcdn.com/w320/is.png
 Italia,Europa,IT,https://flagcdn.com/w320/it.png
@@ -129,7 +129,7 @@ Lituania,Europa,LT,https://flagcdn.com/w320/lt.png
 Luxemburgo,Europa,LU,https://flagcdn.com/w320/lu.png
 Malta,Europa,MT,https://flagcdn.com/w320/mt.png
 Moldavia,Europa,MD,https://flagcdn.com/w320/md.png
-Mónaco,Europa,MC,https://flagcdn.com/w320/mc.png
+Monaco,Europa,MC,https://flagcdn.com/w320/mc.png
 Montenegro,Europa,ME,https://flagcdn.com/w320/me.png
 Macedonia del Norte,Europa,MK,https://flagcdn.com/w320/mk.png
 Noruega,Europa,NO,https://flagcdn.com/w320/no.png
@@ -149,7 +149,7 @@ Antigua y Barbuda,Norteamérica,AG,https://flagcdn.com/w320/ag.png
 Bahamas,Norteamérica,BS,https://flagcdn.com/w320/bs.png
 Barbados,Norteamérica,BB,https://flagcdn.com/w320/bb.png
 Belice,Norteamérica,BZ,https://flagcdn.com/w320/bz.png
-Canadá,Norteamérica,CA,https://flagcdn.com/w320/ca.png
+Canada,Norteamérica,CA,https://flagcdn.com/w320/ca.png
 Costa Rica,Norteamérica,CR,https://flagcdn.com/w320/cr.png
 Cuba,Norteamérica,CU,https://flagcdn.com/w320/cu.png
 Dominica,Norteamérica,DM,https://flagcdn.com/w320/dm.png
@@ -160,13 +160,13 @@ Guatemala,Norteamérica,GT,https://flagcdn.com/w320/gt.png
 Haití,Norteamérica,HT,https://flagcdn.com/w320/ht.png
 Honduras,Norteamérica,HN,https://flagcdn.com/w320/hn.png
 Jamaica,Norteamérica,JM,https://flagcdn.com/w320/jm.png
-México,Norteamérica,MX,https://flagcdn.com/w320/mx.png
+Mexico,Norteamérica,MX,https://flagcdn.com/w320/mx.png
 Nicaragua,Norteamérica,NI,https://flagcdn.com/w320/ni.png
-Panamá,Norteamérica,PA,https://flagcdn.com/w320/pa.png
-República Dominicana,Norteamérica,DO,https://flagcdn.com/w320/do.png
-San Cristóbal y Nieves,Norteamérica,KN,https://flagcdn.com/w320/kn.png
+Panama,Norteamérica,PA,https://flagcdn.com/w320/pa.png
+Republica Dominicana,Norteamérica,DO,https://flagcdn.com/w320/do.png
+San Cristobal y Nieves,Norteamérica,KN,https://flagcdn.com/w320/kn.png
 San Vicente y las Granadinas,Norteamérica,VC,https://flagcdn.com/w320/vc.png
-Santa Lucía,Norteamérica,LC,https://flagcdn.com/w320/lc.png
+Santa Lucia,Norteamérica,LC,https://flagcdn.com/w320/lc.png
 Trinidad y Tobago,Norteamérica,TT,https://flagcdn.com/w320/tt.png
 Argentina,Sudamérica,AR,https://flagcdn.com/w320/ar.png
 Bolivia,Sudamérica,BO,https://flagcdn.com/w320/bo.png
@@ -176,7 +176,7 @@ Colombia,Sudamérica,CO,https://flagcdn.com/w320/co.png
 Ecuador,Sudamérica,EC,https://flagcdn.com/w320/ec.png
 Guyana,Sudamérica,GY,https://flagcdn.com/w320/gy.png
 Paraguay,Sudamérica,PY,https://flagcdn.com/w320/py.png
-Perú,Sudamérica,PE,https://flagcdn.com/w320/pe.png
+Peru,Sudamérica,PE,https://flagcdn.com/w320/pe.png
 Surinam,Sudamérica,SR,https://flagcdn.com/w320/sr.png
 Uruguay,Sudamérica,UY,https://flagcdn.com/w320/uy.png
 Venezuela,Sudamérica,VE,https://flagcdn.com/w320/ve.png
